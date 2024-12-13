@@ -204,5 +204,4 @@ class Effectiveness:
 - **Modular Structure**: Each class has a single responsibility (e.g., `Pokemon` handles Pokémon data, `Type` handles type data), ensuring the app is maintainable and scalable.
 
 
-This documentation ensures the project is well-understood and easily maintained.
 
